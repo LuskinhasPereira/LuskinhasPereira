@@ -1,7 +1,7 @@
-- 👋 Oi,Meu nome é @LuskinhasPereira
+- 😆 Oi,Meu nome é @LuskinhasPereira
 - 👀 Estou atraz de conhecimento! :)
 - 🌱 Aprendendo aos poucos !
-- 📫 Meu gmail de contato é :ferreira.lucas27@escola.pr.gov.com
+- 📫 Meu gmail de contato é :ferreira.lucas27@escola.pr.gov.br
 
 <!---
 LuskinhasPereira/LuskinhasPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
